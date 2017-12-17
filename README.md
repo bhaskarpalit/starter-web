@@ -12,3 +12,7 @@ I will commit this to local repository
 
 Please send email to Bhaskar.Palit@gmail.com to get added to the list of contributors
 I will add this to local staging only
+
+## Copyright
+Copyright by Bhaskar Palit
+Please check with Bhaskar for any new usage of this application
