@@ -15,3 +15,4 @@ I will add this to local staging only
 
 ## Copyright
 Copyright by Bhaskar Palit
+Please check with Bhaskar for any new usage of this application
